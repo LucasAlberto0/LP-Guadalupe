@@ -1,0 +1,50 @@
+html,
+body {
+    margin: 0;
+    overflow-x: clip;
+}
+
+* {
+    margin: 0;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+}
+
+
+/*Parte Principal*/
+
+.bg-fullscreen {
+    background-image: url('../assets/banner-principal.webp'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90vh;
+}
+
+.btn-ft-page{
+    border-radius: 8px;
+    background-color: rgb(48, 179, 209);
+    width: 388px;
+    height: 47px;
+    text-transform: uppercase;
+    font-family: var(--font-TitanOne);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--cor-branco);
+    font-size: 19px;
+    transition: all 0.5s ease-in-out;
+}
+
+.max-width-text-st p{
+    max-width: 570px;
+    line-height: 25px;
+}
+
+/*Parte Festival*/
+
+.festivalSection{
+    padding-top: 40px;
+    
+}

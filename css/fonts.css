@@ -1,0 +1,47 @@
+:root {
+    --cor-branco: #ffffff;
+    --cor-laranja: #ff9000;
+    --cor-cinza: #717171;
+    --cor-cinza-escuro: #302a2b;
+}
+
+.texto-laranja {
+    color: var(--cor-laranja);
+}
+
+.texto-cinza {
+    color: var(--cor-cinza);
+}
+
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.titan-one-regular {
+    font-family: "Titan One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.text-s-1{
+    font-size: 75px;
+    margin: 0;
+    line-height: 10px;
+}
+.text-s-2{
+    font-size: 55px;
+}
+.text-s-3{
+    font-size: 20px;
+}
+.text-s-4{
+    font-size: 19px;
+}
