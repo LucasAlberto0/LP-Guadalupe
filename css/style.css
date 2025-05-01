@@ -315,4 +315,76 @@ body {
 	margin-bottom:10px;
 }
 
+/*Rodapé*/
+
+footer {
+    padding-top: 230px;
+    background-image: url('../assets/banner-footer-scaled.webp');
+    min-height: 605px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+footer img {
+    width: 249px;
+    height: 264px;
+    object-fit: contain;
+}
+
+.icon{
+    width: 15px;
+    height: 23px;
+    margin-right: 10px;
+}
+
+footer h2{
+    font-size: 42px;
+    line-height: 20px;
+}
+
+footer span{
+    line-height: 40px;
+    margin-bottom: 30px;
+    font-size: 48px;
+}
+
+footer p{
+    font-size: 16px;
+}
+
+footer p span {
+    font-size: 17px;
+}
+
+footer .hora{
+    padding-left: 100px;
+}
+
+footer .info{
+    margin-bottom: 20px;
+}
+
+footer .info .icon{
+    width: 15px;
+    height: 23px;
+    margin-right: 10px;
+}
+
+.ultimoRodape{
+    padding-left: 0;
+}
+
+.margin-custom{
+    margin-bottom: 115px;
+}
+
+footer label img{
+    width: 145px;
+    height: 17px;
+    margin-top: -4px;
+    margin-left: 2px;
+}
+
+
 
