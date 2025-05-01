@@ -1,6 +1,7 @@
 # Desafio 2 Marcasite 2025
 
 Teste técnico para seguir na candidatura da trilha de desenvolvimento Front-End na Marcasite.
+
 Repliquei a LP do restaurante Guadalupe
 
 ![image](https://github.com/user-attachments/assets/1d5fdec7-774f-4415-918e-339ae7123f4a)
