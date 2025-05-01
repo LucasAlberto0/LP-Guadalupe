@@ -11,6 +11,10 @@ body {
     outline: 0;
 }
 
+.container{
+    max-width: 1150px;
+}
+
 
 /*Parte Principal*/
 
@@ -51,7 +55,13 @@ body {
 /*Parte Festival*/
 
 .festivalSection{
-    padding-top: 40px;
+    max-width: 1150px; /* ou o valor que preferir, como 960px */
+    margin: 0 auto;
+}
+
+.festivalSection img{
+    height: 453px;
+    width: 635px;
 }
 
 .festivalSection h2{
@@ -93,7 +103,7 @@ body {
 .videoSection .itens img{
     width: 63px;
     height: 60px;
-    margin-left: 20px;
+    margin-left: 60px;
 }
 
 .videoSection h2 {
