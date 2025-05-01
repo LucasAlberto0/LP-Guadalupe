@@ -22,5 +22,5 @@ Repliquei a LP do restaurante Guadalupe
  
 
 ## Deploy do projeto:
-https://desafiomodalgr25.vercel.app/
+[https://desafiomodalgr25.vercel.app/](https://lp-2-marcasite-guadalupe.vercel.app/)
 
