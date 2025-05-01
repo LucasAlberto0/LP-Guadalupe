@@ -20,6 +20,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     height: 90vh;
+    margin-bottom: 200px;
 }
 
 .btn-ft-page{
@@ -46,5 +47,108 @@ body {
 
 .festivalSection{
     padding-top: 40px;
-    
 }
+
+.festivalSection h2{
+    font-size: 42px;
+}
+
+.festivalSection span{
+    line-height: 8px;
+    margin-bottom: 40px;
+    font-size: 48px;
+}
+
+.festivalSection p{
+    font-size: 19px;
+}
+
+.festivalSection b{
+    font-size: 19px;
+}
+
+.festivalSection button{
+    width: 380px;
+}
+
+/*Parte do Vídeo*/
+
+.videoSection{
+    padding-top: 100px;
+    margin-bottom: 100px;
+}
+
+.videoSection b{
+    max-width: 150px;
+    line-height: 30px;
+    font-size: 25px;
+}
+
+.videoSection .itens img{
+    width: 63px;
+    height: 60px;
+    margin-left: 20px;
+}
+
+.videoSection h2 {
+    max-width: 342px;
+    font-size: 42px;
+}
+
+.videoSection span{
+    margin-bottom: 50px;
+    line-height: 8px;
+    font-size: 48px;
+}
+
+.videoSection p{
+    line-height: 20px;
+    max-width: 330px;
+    font-size: 19px;
+}
+
+.img-play-video{
+    padding-left: 60px;
+}
+
+.videoSection button{
+    width: 330px;
+}
+
+/*Parte das Vantagens*/
+
+.vantagensSection {
+    padding-top: 30px;
+    background-image: url('../assets/banner-tradicional.webp');
+    min-height: 730px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 80px;
+}
+
+.vantagensSection h2{
+    font-size: 42px;
+}
+
+.vantagensSection span{
+    font-size: 48px;
+    line-height: 10px;
+}
+
+.vantagensSection img{
+    width: auto;
+    object-fit: contain;
+}
+
+.vantagensSection h3{
+    font-size: 18px;
+    margin-top: 15px;
+    line-height: 25px;
+    text-transform: uppercase;
+    max-width: 190px;
+    color: white;
+}
+
+
+
