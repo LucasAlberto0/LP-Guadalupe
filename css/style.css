@@ -38,10 +38,15 @@ body {
     transition: all 0.5s ease-in-out;
 }
 
+.btn-ft-page:hover {
+    background-color: rgb(23 109 129) !important;
+}
+
 .max-width-text-st p{
     max-width: 570px;
     line-height: 25px;
 }
+
 
 /*Parte Festival*/
 
@@ -70,6 +75,7 @@ body {
 .festivalSection button{
     width: 380px;
 }
+
 
 /*Parte do Vídeo*/
 
@@ -115,6 +121,7 @@ body {
     width: 330px;
 }
 
+
 /*Parte das Vantagens*/
 
 .vantagensSection {
@@ -150,9 +157,8 @@ body {
     color: white;
 }
 
+
 /*Parte de anúncios mobile*/
-
-
 
 .adMobile .ad .info h2{
     line-height: 40px;
@@ -200,3 +206,76 @@ body {
 .adMobile{
     padding-top: 30px;
 }
+
+
+/*Parte do Formulário*/
+
+.formSection{
+    padding-top: 120px;
+}
+
+.formSection h2{
+    font-size: 42px;
+    line-height: 30px;
+}
+
+.formSection span{
+    line-height: 10px;
+    margin-bottom: 30px;
+    font-size: 48px;
+}
+
+.formSection .st-p{
+    max-width: 331px;
+    text-align: left;
+}
+
+.formSection img{
+    width: 90%;
+}
+
+.formSection .order-1{
+    padding-top: 80px;
+}
+
+.input-form{
+    border-radius: 8px;
+    background-color: rgb(243, 243, 243);
+    width: 100%;
+    height: 42px;
+    padding: 10px;
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+
+.nd-p{
+    font-size: 13px;
+    text-align: justify;
+    margin-left: 15px;
+    margin-top: 10px;
+    padding-top: 8px;
+}
+
+.input-form::placeholder{
+    font-size: 13px;
+    color: rgba(134, 134, 134, 0.722);
+    line-height: 1.769;
+}
+
+.checkbox{
+    
+}
+
+.formSection p label{
+    text-align: justify;
+    margin-left: 15px;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+.formSection button{
+    width: 161px;
+    font-size: 19px;
+}
+
+
