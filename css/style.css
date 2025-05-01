@@ -262,10 +262,6 @@ body {
     line-height: 1.769;
 }
 
-.checkbox{
-    
-}
-
 .formSection p label{
     text-align: justify;
     margin-left: 15px;
@@ -276,6 +272,47 @@ body {
 .formSection button{
     width: 161px;
     font-size: 19px;
+}
+
+
+/*Parte da Galeria*/
+
+.galeriaSection{
+    padding-top: 160px;
+    margin-bottom: 200px;
+}
+
+.galeriaSection h2 {
+    line-height: 25px;
+    margin-top: 35px;
+    font-size: 42px;
+}
+
+.galeriaSection span{
+    line-height: 40px;
+    font-size: 48px;
+}
+
+.portfolio-menu{
+	text-align:center;
+}
+
+.portfolio-menu ul li{
+	display:inline-block;
+	margin:0;
+	list-style:none;
+	padding:10px 15px;
+	cursor:pointer;
+	-webkit-transition:all 05s ease;
+	-moz-transition:all 05s ease;
+	-ms-transition:all 05s ease;
+	-o-transition:all 05s ease;
+	transition:all .5s ease;
+}
+
+.portfolio-item .item{
+	float:left;
+	margin-bottom:10px;
 }
 
 
