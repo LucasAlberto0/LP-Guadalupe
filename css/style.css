@@ -150,5 +150,53 @@ body {
     color: white;
 }
 
+/*Parte de anúncios mobile*/
 
 
+
+.adMobile .ad .info h2{
+    line-height: 40px;
+    max-width: 307px;
+}
+
+.adMobile .ad .info2 h2{
+    width: 228px;
+}
+
+.adMobile .ad .info-2 span{
+    margin-bottom: 40px;
+}
+
+.adMobile .ad .info-2 p{
+    max-width: 233px;
+    font-size: 19px;
+}
+
+.adMobile span{
+    font-size: 48px;
+    line-height: 8px;
+    margin-bottom: 30px;
+}
+
+.adMobile .ad .info p{
+    max-width: 300px;
+    font-size: 19px;
+}
+
+.adMobile .ad img{
+    width: 160px;
+    height: 300px;
+}
+
+.adMobile button{
+    width: 250px;
+}
+
+.adMobile .ad .cardapio{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.adMobile{
+    padding-top: 30px;
+}
