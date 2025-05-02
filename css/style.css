@@ -20,12 +20,15 @@ body {
 
 .bg-fullscreen {
     background-image: url('../assets/banner-principal.webp'); 
-    background-size: cover;
+    max-height: 835px;
     background-position: center;
+    background-size: cover;
     background-repeat: no-repeat;
-    height: 90vh;
-    margin-bottom: 200px;
+    margin-top: -60px;
+    padding-top: 100px;
+    margin-bottom: 240px;
 }
+
 
 .btn-ft-page{
     border-radius: 8px;
@@ -431,7 +434,7 @@ footer label img{
 @media (max-width: 991px){
     
     .container{
-        max-width: 800px;
+        max-width: 740px;
     }
 
     h1{
@@ -443,6 +446,17 @@ footer label img{
     span{
         font-size: 38px;
     }
+    .col-lg-7{
+        display: flex;
+        align-items: center;
+    }
+    .videoSection h2 {
+        max-width: 100%;
+    }
+    .videoSection p{
+        max-width: 100%;
+    }
+    
 }
 
 
