@@ -83,7 +83,7 @@ body {
 }
 
 .festivalSection button{
-    width: 380px;
+    width: 308px;
 }
 
 
@@ -396,5 +396,53 @@ footer label img{
     margin-left: 2px;
 }
 
+
+/*Responsividade*/
+
+
+@media (max-width: 1200px) {
+    .bg-fullscreen article img {
+        width: 80%;
+        height: 80%; 
+        padding-top: 60px;
+    }
+    .container{
+        max-width: 900px;
+    }
+    .festivalSection img{
+        height: 363px;
+        width: 565px;
+    }
+    .adMobile span{
+        font-size: 40px;
+    }
+    footer h2{
+        font-size:38px;
+        line-height: 20px;
+    }
+    
+    footer span{
+        line-height: 40px;
+        margin-bottom: 30px;
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 991px){
+    
+    .container{
+        max-width: 800px;
+    }
+
+    h1{
+        font-size: 42px;
+    }
+    h2{
+        font-size: 32px;
+    }
+    span{
+        font-size: 38px;
+    }
+}
 
 
