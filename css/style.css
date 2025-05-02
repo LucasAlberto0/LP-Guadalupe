@@ -496,7 +496,15 @@ footer label img{
     footer .hora{
         padding-left: 0px;
     }
-    
+    footer label img{
+        width: 100px;
+        height: 17px;
+        margin-top: -4px;
+        margin-left: 2px;
+    }
+    .ultimoRodape{
+        font-size: 9px;
+    }
 }
 
 @media (max-width: 576px){
