@@ -405,8 +405,8 @@ footer label img{
 
 @media (max-width: 1200px) {
     .bg-fullscreen article img {
-        width: 80%;
-        height: 80%; 
+        width: 709px;
+        height: 409px; 
         padding-top: 60px;
     }
     .container{
@@ -432,7 +432,11 @@ footer label img{
 }
 
 @media (max-width: 991px){
-    
+    .bg-fullscreen article img {
+        width: 700px;
+        height: 400px; 
+        padding-top: 60px;
+    }
     .container{
         max-width: 740px;
     }
@@ -457,6 +461,74 @@ footer label img{
         max-width: 100%;
     }
     
+}
+
+@media (max-width: 768px){
+    .bg-fullscreen article img {
+        width: 500px;
+        height: 300px; 
+        padding-top: 100px;
+    }
+    .videoSection h2,
+    .vantagensSection h2,
+    .formSection h2,
+    .adMobile h2,
+    .festivalSection h2,
+    footer h2,
+    .galeriaSection h2{
+        font-size: 30px;
+    }
+    .texto-laranja{
+        font-size: 30px;
+    }
+    
+    .container{
+        max-width: 540px;
+    }
+    .festivalSection img{
+        height: 363px;
+        width: 565px;
+    }
+    .adMobile span{
+        font-size: 40px;
+    }
+    
+    footer .hora{
+        padding-left: 0px;
+    }
+    
+}
+
+@media (max-width: 576px){
+    .bg-fullscreen article img {
+        width: 400px;
+        height: 250px; 
+        padding-top: 100px;
+    }
+    .container{
+        max-width: 100%;
+    }
+    .festivalSection img{
+        height: 363px;
+        width: 565px;
+    }
+    .adMobile span{
+        font-size: 40px;
+    }
+    footer .hora{
+        padding-left: 0px;
+    }
+    .bg-fullscreen h2{
+        font-size: 45px;
+    }
+    .bg-fullscreen p{
+        font-size: 17px; 
+        padding-left: 4px;
+        padding-right: 4px;
+    }
+    .bg-fullscreen .texto-laranja{
+        font-size: 40px;
+    }
 }
 
 
