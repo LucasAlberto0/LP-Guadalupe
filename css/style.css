@@ -531,4 +531,33 @@ footer label img{
     }
 }
 
+@media (max-width: 467px){
+    .bg-fullscreen article img {
+        width: 360px;
+        height: 290px; 
+        padding-top: 150px;
+    }
+    .bg-fullscreen .btn-ft-page {
+        width: 300px;
+        height: 47px; 
+    }
+    .festivalSection img{
+        height: 363px;
+        width: 565px;
+    }
+    .adMobile span{
+        font-size: 40px;
+    }
+    footer .hora{
+        padding-left: 0px;
+    }
+    .hidden-custom {
+        display: none !important;
+    }
+    .img-play-video{
+        width: 80%;
+        padding-left: 0px;
+    }
+}
+
 
