@@ -2,7 +2,7 @@
 
 Teste técnico para seguir na candidatura da trilha de desenvolvimento Front-End na Marcasite.
 
-Repliquei a LP do restaurante Guadalupe
+Repliquei do zero a LP do restaurante Guadalupe!
 
 ![image](https://github.com/user-attachments/assets/1d5fdec7-774f-4415-918e-339ae7123f4a)
 ![image](https://github.com/user-attachments/assets/949c8dd8-9dab-4f92-8102-2990a1d0603b)
@@ -14,7 +14,7 @@ Repliquei a LP do restaurante Guadalupe
 - CSS 3
 - Bootstrap v5.3.5
 
-## Bibliotecas utilizadas:
+## Bibliotecas adicionais utilizadas:
  ### AOS - para animação da Lp
  - docs: https://michalsnik.github.io/aos/
  ### Jquery - para a galeria de imagens
@@ -23,4 +23,10 @@ Repliquei a LP do restaurante Guadalupe
 
 ## Deploy do projeto:
 https://lp-2-marcasite-guadalupe.vercel.app/
+
+## Link do site original:
+https://guadalupecocina.com.br/
+
+
+
 
